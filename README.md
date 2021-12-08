@@ -1,6 +1,5 @@
 # Easy-Quotation-System
 with PHP+MySQL
-
 Operate step by step:
 
 1.
